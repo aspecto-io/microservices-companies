@@ -1,10 +1,15 @@
 <div align="center">
   
-<a href="#"><img width="320px" src="https://s3-eu-west-1.amazonaws.com/resources.aspecto.io/assets/flows-search-empty-state.png" title="צןברםדקרהןבקד"></a>
+<a href="#"><img width="320px" src="https://s3-eu-west-1.amazonaws.com/resources.aspecto.io/assets/flows-search-empty-state.png" title="microservices"></a>
 
 <h3>A curated list of companies using microservices</h3>
 
 </div>
+
+### Join our [gitter cummunity](https://gitter.im/microservices-companies/community) to discuss about microservices!
+
+Using microservices?
+Add you company to this list.
 
 ## Companies
 
