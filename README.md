@@ -15,4 +15,4 @@ Add you company to this list.
 
  Company | Location | Main language | Number of microservices |
 -----|-----|-----|-----|
-![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.aspecto.io) [Aspecto](https://www.aspecto.io/) | Tel Aviv | Node.js | 25-50 |
+![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.aspecto.io) [Aspecto](https://www.aspecto.io/) | Tel Aviv, Israel | Node.js | 25-50 |
