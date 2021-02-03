@@ -14,5 +14,5 @@ Add you company to this list by submitting a PR.
 ## Companies
 
  Company | Location | Main language | Number of microservices | Communication methods |
------|-----|-----|-----|
+-----|-----|-----|-----|-----|
 ![Logo](https://www.google.com/s2/favicons?sz=16&domain=www.aspecto.io) [Aspecto](https://www.aspecto.io/) | Tel Aviv, Israel | Node.js | 25-50 | HTTP, SQS |
