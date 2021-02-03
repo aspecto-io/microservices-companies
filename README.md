@@ -8,8 +8,8 @@
 
 ### Join our [gitter cummunity](https://gitter.im/microservices-companies/community) to discuss about microservices!
 
-Using microservices?
-Add you company to this list.
+Using microservices?  
+Add you company to this list by submitting a PR.
 
 ## Companies
 
